@@ -1,0 +1,9 @@
+C:\Users\ricbi\OneDrive\Documentos\Visual Studio 2012\Projects\graficador2\graficador2\bin\Debug\graficador2.exe.config
+C:\Users\ricbi\OneDrive\Documentos\Visual Studio 2012\Projects\graficador2\graficador2\obj\Debug\graficador2.csprojResolveAssemblyReference.cache
+C:\Users\ricbi\OneDrive\Documentos\Visual Studio 2012\Projects\graficador2\graficador2\obj\Debug\Graficaion.Form1.resources
+C:\Users\ricbi\OneDrive\Documentos\Visual Studio 2012\Projects\graficador2\graficador2\obj\Debug\Graficaion.Properties.Resources.resources
+C:\Users\ricbi\OneDrive\Documentos\Visual Studio 2012\Projects\graficador2\graficador2\obj\Debug\graficador2.csproj.GenerateResource.Cache
+C:\Users\ricbi\OneDrive\Documentos\Visual Studio 2012\Projects\graficador2\graficador2\bin\Debug\graficador2.exe
+C:\Users\ricbi\OneDrive\Documentos\Visual Studio 2012\Projects\graficador2\graficador2\bin\Debug\graficador2.pdb
+C:\Users\ricbi\OneDrive\Documentos\Visual Studio 2012\Projects\graficador2\graficador2\obj\Debug\graficador2.exe
+C:\Users\ricbi\OneDrive\Documentos\Visual Studio 2012\Projects\graficador2\graficador2\obj\Debug\graficador2.pdb

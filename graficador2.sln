@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graficador2", "graficador2\graficador2.csproj", "{5D54AFB7-FEC1-4F66-A19C-113F385626BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D54AFB7-FEC1-4F66-A19C-113F385626BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D54AFB7-FEC1-4F66-A19C-113F385626BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D54AFB7-FEC1-4F66-A19C-113F385626BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D54AFB7-FEC1-4F66-A19C-113F385626BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
